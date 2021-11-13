@@ -14,7 +14,7 @@ import lombok.Setter;
 
 /**
  *
- * @author E238958
+ * @author Rhume
  */
 @Entity
 @Table(name = "product_category")
@@ -32,7 +32,4 @@ public class ProductCategory {
     
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "category")
     private Set<Product> products;
-    
-    
-    
 }
