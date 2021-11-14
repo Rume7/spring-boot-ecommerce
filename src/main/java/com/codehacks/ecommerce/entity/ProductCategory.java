@@ -1,4 +1,4 @@
-package com.luv2code.ecommerce.entity;
+package com.codehacks.ecommerce.entity;
 
 import java.util.Set;
 import javax.persistence.CascadeType;

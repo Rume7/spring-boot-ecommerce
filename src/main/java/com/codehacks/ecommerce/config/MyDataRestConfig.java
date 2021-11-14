@@ -1,7 +1,7 @@
-package com.luv2code.ecommerce.config;
+package com.codehacks.ecommerce.config;
 
-import com.luv2code.ecommerce.entity.Product;
-import com.luv2code.ecommerce.entity.ProductCategory;
+import com.codehacks.ecommerce.entity.Product;
+import com.codehacks.ecommerce.entity.ProductCategory;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;

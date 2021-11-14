@@ -1,6 +1,6 @@
-package com.luv2code.ecommerce.dao;
+package com.codehacks.ecommerce.dao;
 
-import com.luv2code.ecommerce.entity.Product;
+import com.codehacks.ecommerce.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
