@@ -13,9 +13,9 @@
         <relativePath/>
     </parent>
     
-    <groupId>com.luv2code</groupId>
+    <groupId>com.codehacks</groupId>
     <artifactId>spring-boot-ecommerce</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>spring-boot-ecommerce</name>
     <description>Spring Boot Ecommerce project</description>
     <properties>
